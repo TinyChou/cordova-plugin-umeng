@@ -1,7 +1,7 @@
 {
-  "name": "umeng-analytics-sdk",
-  "version": "3.0.0",
-  "description": "umeng sdk Plugin",
+  "name": "cordova-plugin-bell-umeng",
+  "version": "1.0.0",
+  "description": "cordova-plugin-bell-umeng",
   "prepare_queue": {
       "installed": [],
       "uninstalled": []
